@@ -20,3 +20,6 @@ Conforme o cronograma de estudos do curso da RocketSeat,este projeto abrange:
 1. Instale as dependências: `pip install flask flask_sqlalchemy flask_cors flask_login`
 2. Execute o servidor: `python app.py`
 3. Acesse em: `http://127.0.0.1:5000`
+
+[Certificado_Minicurso de Python.pdf](https://github.com/user-attachments/files/27734571/Certificado_Minicurso.de.Python.pdf)
+
